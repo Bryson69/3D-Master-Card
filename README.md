@@ -1,8 +1,9 @@
-<h1 align="center" color="#585858">3D Mastercard</h1>
+<h1 align="center" color="red">3D Mastercard</h1>
 
 
 ## Description
-Product Card Ui Design
+Product Card UI Design built using HTML, CSS & JS.
+
 
 
 ## Click on the live site to see its effects [Master-Card]()
