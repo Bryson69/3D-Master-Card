@@ -1,4 +1,4 @@
-<h1 align="center" color="red">3D Mastercard</h1>
+<h1 align="center" style="color:orange;">3D Mastercard</h1>
 
 
 ## Description
@@ -6,7 +6,7 @@ Product Card UI Design built using HTML, CSS & JS.
 
 
 
-## Click on the live site to see its effects [Master-Card]()
+## Click on the live site to see its effects [Master-Card](https://3dmastercard.netlify.app/)
 
 
 # Support and Contacts
